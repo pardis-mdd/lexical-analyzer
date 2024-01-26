@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lexer Analyzer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="mainContainer">
+      <input type="file" id="fileInput" />
+      <br />
+      <button onclick="analyzeFile()">Analyze File</button>
+      <div class="output" id="output"></div>
+      <br />
+    </div>
+
+    <div class="container" style="display: none">
+      <table>
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Value</th>
+            <th>Line</th>
+            <th>Index</th>
+            <th>Block</th>
+          </tr>
+        </thead>
+        <tbody id="lexanalyzerTableBody"></tbody>
+      </table>
+      <div>
+        <form id="LexForm">
+          <br />
+        </form>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
