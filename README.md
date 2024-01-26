@@ -26,11 +26,11 @@ Follow these steps to use the JavaScript Lexical Analyzer in your project:
    ```
 
 2. **Include the Analyzer and UI files:**
-   - Copy the `lexicalAnalyzer.js`, `index.html`, and `style.css` files into your project.
+   - Copy the `lexicalAnalyzer.js`, `index.html`, and `styles.css` files into your project.
    - Include the files in your HTML file.
      ```html
      <script src="path/to/lexicalAnalyzer.js"></script>
-     <link rel="stylesheet" type="text/css" href="path/to/style.css">
+     <link rel="stylesheet" type="text/css" href="path/to/styles.css">
      ```
 
 
