@@ -22,7 +22,7 @@ Follow these steps to use the JavaScript Lexical Analyzer in your project:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/js-lexical-analyzer.git
+   git clone https://github.com/pardis-mdd/lexical-analyzer.git
    ```
 
 2. **Include the Analyzer and UI files:**
