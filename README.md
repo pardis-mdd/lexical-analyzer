@@ -54,3 +54,6 @@ The output table is designed to present the analyzed tokens in a clear and organ
 4. `Index`
 5. `Block`
 
+## Testing
+
+Included in this repository is a sample JavaScript file, `test.js`, that you can use to test the Lexical Analyzer. Modify and experiment with the contents of `test.js` to observe how the analyzer processes different JavaScript code structures. Use this testing script to ensure the correct functionality of the lexical analysis process in various scenarios.
