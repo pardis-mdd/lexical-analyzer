@@ -42,7 +42,7 @@ body {
   display: none;
   background-color: #3e4451;
   border-radius: 8px;
-  box-shadow: 0 0 15px rgba(218, 35, 35, 0.5);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
   padding: 20px;
   width: 80%;
   max-width: 800px;
